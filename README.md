@@ -4,7 +4,8 @@ A 100% native Android (Kotlin + Jetpack Compose) peer-to-peer communication app 
 
 ## Download Debug APK
 
-Download the prebuilt debug APK directly from the **[GitHub Releases](../../releases/latest)** page and install it on Android 8.0+ (API 26–35) devices.
+- **Direct Download**: [FamilyLink-v1.0.0-debug.apk](https://github.com/ahmedabokandil/FamilyLink/raw/main/releases/FamilyLink-v1.0.0-debug.apk) (Android 8.0+ / API 26–35)
+- You can also inspect the [v1.0.0-debug Release](https://github.com/ahmedabokandil/FamilyLink/releases/tag/v1.0.0-debug) or trigger the GitHub Actions workflow to rebuild from source.
 
 ## Key Features
 
